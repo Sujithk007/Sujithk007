@@ -38,13 +38,13 @@
 <img src = 'https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'>
 </p>
 
-### My DevOp's Stack
+### My DevOps Stack
 <p align = 'center'>
   <img src = 'https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=Kubernetes&logoColor=white'>
   <img src = 'https://img.shields.io/badge/Docker-00d9ff?style=for-the-badge&logo=Docker&logoColor=white'>
   <img src = 'https://img.shields.io/badge/Grafana-20232A?style=for-the-badge&logo=Grafana&logoColor=orange'>
   <img src = 'https://img.shields.io/badge/Prometheus-DF4F2B?style=for-the-badge&logo=Prometheus&logoColor=orange'>
-  <img src = 'https://img.shields.io/badge/Bamboo-F7F7F7?style=for-the-badge&logo=Bamboo&logoColor=316CE6'>
+  <img src = 'https://img.shields.io/badge/Bamboo-bababa?style=for-the-badge&logo=Bamboo&logoColor=316CE6'>
 </p>
 
 ### Database I use 🗃️
