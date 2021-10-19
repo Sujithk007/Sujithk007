@@ -1,4 +1,4 @@
-![](https://github.com/Sujithk007/sujithk007/blob/master/footer.png)
+![](https://github.com/Sujithk007/Sujithk007/blob/main/header_.png)
 
 <h1 align="center"> Hi there, I'm Sujith <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
@@ -81,4 +81,4 @@
 
   ![Ahammad Shawki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujithk007)
   
-![](https://github.com/Sujithk007/sujithk007/blob/master/footer.png)
+![](https://github.com/Sujithk007/Sujithk007/blob/main/footer.png)
