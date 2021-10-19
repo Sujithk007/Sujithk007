@@ -1,19 +1,24 @@
 ![](https://github.com/Sujithk007/Sujithk007/blob/main/header_.png)
-
 <h1 align="center"> Hi there, I'm Sujith <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
-<!-- <h3 align="center">I'm a Full Stack Developer and DevOps Engineer ❤</h3>
-<h3 align = 'center'>A python Enthusiast, and a Competetive Programmer </3> -->
 <br />
 
-<!-- ### Current Status ✨ -->
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h3 align="center">I'm a Full Stack Developer and DevOps Engineer ❤</h3>
-<h3 align = 'center'>A python Enthusiast, and a Competetive Programmer </3>
-<br />
-<br />
-<br />
+<div width="55%">
+  <h3 align="center">I'm a Full Stack Developer and DevOps Engineer ❤</h3>
+  <h3 align='center'>A python Enthusiast, and a Competetive Programmer👨‍💻</h3>
+  <br />
+  <p align="center">  
+    <a href="https://www.linkedin.com/in/sujith-k-646a93189/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;  
+    <a href="https://stackoverflow.com/users/11278834/sujith-k">
+      <img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange"/>        
+    </a>&nbsp;&nbsp;
+    <a href="mailto:k2sujith@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-ff5d17.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+  </p>
+<div>
 <br />
 
 ### My Web Dev Stack 👨‍💻
@@ -68,7 +73,7 @@
 </p> 
 
 ### My GitHub Stats 📈
-<table>
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujithk007&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
@@ -78,7 +83,7 @@
     </td>
   </tr>
 </table>
-
-  ![Ahammad Shawki's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sujithk007)
+ 
+ <img src="https://github.com/Sujithk007/Sujithk007/blob/main/snake.svg" style="background:#161b22;" width="100%">
   
 ![](https://github.com/Sujithk007/Sujithk007/blob/main/footer.png)
